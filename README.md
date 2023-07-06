@@ -10,7 +10,7 @@ Application should do the following:
  Have set methods to change the password, set the mailbox capacity, and define an alternate email address
  Have get methods to display the name, email, and mailbox capacity
 
-**2nd Project Email Application**
+**2nd Student Database Application**
 Aplication should do the following:
  Ask the user how many new students will be added to the database
  The user should be prompted to enter the name and year for each student
@@ -20,7 +20,7 @@ Aplication should do the following:
  The student should be able to view their balance and pay the tuition
  To see the status of the student, we should see their name, ID, courses enrolled, and balance
 
-**3rd Project Email Application**
+**3rd Project Build New Bank Account Application**
  Read a .csv file of names, social security numbers, account type, and initial deposit
  Use a proper data structure to hold all these accounts
  Both saving and checking accounts share the following properties: 
